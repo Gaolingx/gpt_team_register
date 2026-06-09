@@ -1,0 +1,8 @@
+{
+  "proxy": "http://127.0.0.1:7890",
+  "proxy_chain_enabled": false,
+  "proxy_chain_upstream_proxy": "HOST:PORT:USERNAME-region-JP-sid-{session}-t-5:PASSWORD",
+  "proxy_chain_dynamic_per_account": false,
+  "proxy_chain_register_region": "JP",
+  "proxy_chain_payment_region": "JP"
+}
