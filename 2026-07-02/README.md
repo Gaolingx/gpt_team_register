@@ -1,0 +1,7 @@
+5e4c9b31-1b4e-4887-839b-607597928d7c
+gmail的workspacid
+631e1603-06cf-4f0b-b79b-d09fbfcfe98d
+纽约州立大学的
+自备注册好的free可以零成本拉team（直接用id+后缀匹配到注册好的free号就可以拉，反正应该理论上workid对而且知道母号的邮箱后缀就能直接强拉子号进空间）
+
+outlook.com邮箱可用
