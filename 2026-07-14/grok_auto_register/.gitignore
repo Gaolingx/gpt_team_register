@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# 本地私密配置与环境变量（切勿提交）
+config.json
+.env
+.env.*
+!.env.example
+
+# 运行产物与敏感账本
+data/accounts.txt
+data/accounts_*.txt
+data/mail_credentials.txt
+data/mint_pending.jsonl
+data/run_metrics.jsonl
+data/cpa_auths/**
+!data/cpa_auths/.gitkeep
+data/browser_profiles/
+data/**/*.zip
+data/**/*.json
+!data/**/.gitkeep
+
+# 调试与日志
+screenshots/
+*.log
+batch*_run_*.log
+gui_crash.log
+token.json
+
+# 编辑器 / 系统
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Claude / 本地会话
+.claude/
